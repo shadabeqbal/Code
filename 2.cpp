@@ -1,7 +1,7 @@
 
 
 #include<iostream>
-using namespace std; 
+using namespace std;
 #define MAX(x,y) (x>y?x:y)
 
 int main() 
